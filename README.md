@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Front-end development , python and AWS**
 
-- 📫 How to reach me **saikeerthana2301@gmail.com**
+- 📫 How to reach me **saikeerthanapathi2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
