@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Keerthana Pathi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Tech enthusiast from India</h3>
 <img align="right" height="400px" width="400px" alt="WORK FOR IT" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikeerthana01&label=Profile%20views&color=0e75b6&style=flat" alt="saikeerthana01" /> </p>
