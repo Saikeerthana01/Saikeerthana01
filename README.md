@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikeerthana01&label=Profile%20views&color=0e75b6&style=flat" alt="saikeerthana01" /> </p>
 
-- 🌱 I’m currently learning **Front-end development , python and AWS**
+- 🌱 I’m currently learning **Front-end development ,data analysis, python and AWS**
 
 - 📫 How to reach me **saikeerthanapathi2004@gmail.com**
 
